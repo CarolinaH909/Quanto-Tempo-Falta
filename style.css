@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
+@import url('https://fonts.google.com/share?selection.family=Concert+One');
 
 :root{
     --cor-de-fundo:#1E1E1E;
     --branco:#FFFFFF;
-    --verde:#6FFF57;
+    --rosa:#ff5797;
 }
 
 body{
@@ -14,10 +14,10 @@ body{
 }
 
 h1 span{
-    color:var(--verde);
+    color:var(--rosa);
 }
 
 #dias_restantes{
-    color:var(--verde);
+    color:var(--rosa);
     font-size: 50px;
 }
